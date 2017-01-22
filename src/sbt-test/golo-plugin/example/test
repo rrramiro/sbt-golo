@@ -1,0 +1,3 @@
+> goloc
+$ exists target\scala-2.11\classes\hello\World.class
+> run-main hello.World
